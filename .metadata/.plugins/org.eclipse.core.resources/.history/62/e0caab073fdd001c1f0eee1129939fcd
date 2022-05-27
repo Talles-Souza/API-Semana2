@@ -1,0 +1,5 @@
+package com.residencia.comercio.entities;
+
+public class Produto {
+
+}
